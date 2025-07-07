@@ -5,9 +5,9 @@
 
 
 ---
-
-## 🚀 Tecnologias que utilizo
-
+<p align="center">
+🚀 Tecnologias 
+</p>
 <table align="center">
   <tr align="center">
     <td>
