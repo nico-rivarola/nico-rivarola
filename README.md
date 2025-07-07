@@ -45,7 +45,7 @@
 ## 🔗 Me encontre também no LinkedIn
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/](https://www.linkedin.com/in/nicol%C3%A1s-rivarola-011223176/" target="_blank">
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-rivarola-011223176/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </p>
